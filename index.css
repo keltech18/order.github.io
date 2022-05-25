@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit&family=Red+Hat+Display:wght@300;400;500&display=swap');
+
 *{
     box-sizing: border-box;
 }
@@ -31,11 +34,13 @@ main {
 }
 
 .main-h1 {
+    font-family: 'Red Hat Display', sans-serif;
     color: hsl(223, 47%, 23%);
     font-weight: 900;
 }
 
 .main-p {
+    font-family: 'Red Hat Display', sans-serif;
     color:hsl(224, 23%, 55%);
     font-size: 16px;
     line-height: 20px;
@@ -60,10 +65,12 @@ main {
 }
 
 p {
+    font-family: 'Red Hat Display', sans-serif;
     line-height: 13px;
 }
 
 .price-plan {
+    font-family: 'Red Hat Display', sans-serif;
     float: left;
     color: hsl(223, 47%, 23%);
     font-weight: 700;
@@ -71,6 +78,7 @@ p {
 }
 
 .price {
+    font-family: 'Red Hat Display', sans-serif;
     float: left;
     line-height: 1px;
     color: hsl(224, 23%, 55%);
@@ -82,6 +90,7 @@ p {
 }
 
 .change {
+    font-family: 'Red Hat Display', sans-serif;
     text-decoration: underline;
     font-weight: 700;
 }
@@ -96,6 +105,7 @@ p {
 }
 
 .payment {
+    font-family: 'Red Hat Display', sans-serif;
     text-decoration: none;
     margin: auto;
     padding-left: 90px;
@@ -117,6 +127,7 @@ p {
 }
 
 .cancel {
+    font-family: 'Red Hat Display', sans-serif;
     color: hsl(224, 23%, 55%);
     text-decoration: none;
     font-weight: 700;
